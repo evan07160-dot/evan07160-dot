@@ -1,6 +1,6 @@
 ## Hi there 👋
 안녕하세요 영남대학교 컴퓨터공학 학과 2학년 이준현 이라고 합니다. 최근에 관심을 갖는 언어는 C,C++이고 노력하고 있습니다
-
+Hello, my name is Lee Jun-hyun, and I am a sophomore in the Department of Computer Engineering at Yeungnam University. Recently, I have been interested in C and C++, and I am putting a lot of effort into them.
 
 ## ConTact
 **Email**: evan07160@gmail.com
