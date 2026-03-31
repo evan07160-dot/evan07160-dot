@@ -2,7 +2,7 @@
 안녕하세요 영남대학교 컴퓨터공학 학과 2학년 이준현 이라고 합니다. 최근에 관심을 갖는 언어는 C,C++이고 노력하고 있습니다
 
 
-##ConTact
+## ConTact
 **Email**: evan07160@gmail.com
 <!--
 **evan07160-dot/evan07160-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
