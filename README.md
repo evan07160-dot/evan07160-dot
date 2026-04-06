@@ -1,21 +1,35 @@
-## Hi there 👋
-안녕하세요 영남대학교 컴퓨터공학 학과 2학년 이준현 이라고 합니다. 최근에 관심을 갖는 언어는 C,C++이고 노력하고 있습니다
+<h1 align="center">Hi there 👋 안녕하세요!</h1>
+<p align="center">
+  <b>이준현 (Lee Jun-hyun)</b> · 영남대학교 컴퓨터공학과 2학년
+</p>
+<p align="center">
+  Sophomore @ Yeungnam University, Dept. of Computer Engineering
+</p>
 
-Hello, my name is Lee Jun-hyun, and I am a sophomore in the Department of Computer Engineering at Yeungnam University. Recently, I have been interested in C and C++, and I am putting a lot of effort into them.
+👨‍💻 About Me
 
-## ConTact
-**Email**: evan07160@gmail.com
-<!--
-**evan07160-dot/evan07160-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+학교 : 영남대학교 컴퓨터공학과 (Yeungnam University, Computer Engineering)
+학년 : 2학년 (Sophomore)
+관심 언어 : C, C++ 에 푹 빠져 열심히 공부 중입니다!
+Currently improving my skills in C and C++
+Goal: Becoming a solid systems/software engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+📬 Contact
+수단정보📧 Email:evan07160@gmail.com
+
+
+</p>
