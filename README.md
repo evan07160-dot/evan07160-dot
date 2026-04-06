@@ -32,7 +32,4 @@
 
 
 ## 📬 Contact
-
-| 수단 | 정보 |
-|------|------|
-| 📧 Email | [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6702110609575056515727000a060e0b4904080a">[email&#160;protected]</a>](mailt
+Email : evan07160@gmail.com
