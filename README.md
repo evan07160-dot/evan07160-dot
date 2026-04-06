@@ -56,7 +56,7 @@ public:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=evan07160-dot&color=4FC3F7&style=flat-square&label=Profile+Views)
 
-*"배움에는 끝이 없다 — The learning never ends."*
+
 
 </div>
 
