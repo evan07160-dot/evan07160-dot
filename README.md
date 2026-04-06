@@ -23,7 +23,7 @@ Goal: Becoming a solid systems/software engineer
 
 📊 GitHub Stats
 <p align="center">
- <img scr="https://github-readme-stats.vercel.app/api?username=evan07160-dot&show_icons=true&theme=tokyonight" />
+ https://github-readme-stats.vercel.app/api?username=evan07160-dot&show_icons=true&theme=tokyonight
 </p>
 
 📬 Contact
